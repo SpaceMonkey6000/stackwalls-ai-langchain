@@ -1,4 +1,4 @@
-import os, tkinter
+import os
 from key import apikey
 os.environ["OPENAI_API_KEY"] = apikey
 
